@@ -1,0 +1,14 @@
+albumentations==2.0.8
+hook==0.0.2
+matplotlib==3.7.1
+mmcv_full==1.7.0
+monai==1.1.0
+numpy==1.24.3
+opencv_python_headless==4.10.0.84
+optimizers==0.1
+packaging==25.0
+Pillow==9.4.0
+Pillow==11.3.0
+prettytable==3.16.0
+setuptools==67.8.0
+torch==1.13.1
