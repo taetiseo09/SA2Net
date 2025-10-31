@@ -1,6 +1,6 @@
 # SA<sup>2</sup>Net: Scale-Adaptive Structure-Affinity Transformation for Spine Segmentation from Ultrasound Volume Projection Imaging 🩻
 
-> _[Hao Xie](https://scholar.google.com/citations?user=pDmY7YwAAAAJ&hl), [Zixun Huang](https://jacksonhuang.site/about_me/), [Yushen Zuo](https://yushenzuo.github.io/), [Yakun Ju](https://juyakun.github.io/), et al., Computerized Medical Imaging and Graphics, 2025_
+> _[Hao Xie](https://scholar.google.com/citations?user=pDmY7YwAAAAJ&hl), [Zixun Huang](https://jacksonhuang.site/about_me/), [Yushen Zuo](https://yushenzuo.github.io/), [Yakun Ju](https://juyakun.github.io/), et al., Computerized Medical Imaging and Graphics, 2025_ [Elsevier](https://www.sciencedirect.com/science/article/pii/S0895611125001582?via%3Dihub), [Arxiv](https://arxiv.org/abs/2510.26568)
 
 ## 🧠 Overview
 
